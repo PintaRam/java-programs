@@ -1,7 +1,4 @@
-else if (ch[k] < ch1[p]) {
-            //   String temp = countries[j];
-            //   countries[j] = countries[i];
-            //   countries[i] = temp;
-            // } else {
-            //   k++;
-            // }
+ // if (n <= 0 || n > st.capacity) {
+        // System.out.println("please enter the corrct size of stack : ");
+        // n = sc.nextInt();
+        // }
