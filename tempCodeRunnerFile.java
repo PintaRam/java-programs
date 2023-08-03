@@ -1,4 +1,1 @@
- // if (n <= 0 || n > st.capacity) {
-        // System.out.println("please enter the corrct size of stack : ");
-        // n = sc.nextInt();
-        // }
+list3.addComputePoly(list1, list2);
